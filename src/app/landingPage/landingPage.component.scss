@@ -1,0 +1,22 @@
+h1{
+    color: white;
+}
+h2{
+    color:white;
+}
+
+section{
+    height: 100vh;
+    width: 100%;
+    background-image: url('/img/hero_bg.jpg');
+    background-size:cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+div{
+    width: 100%;
+}
