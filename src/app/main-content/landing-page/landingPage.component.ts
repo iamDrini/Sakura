@@ -8,8 +8,8 @@ import { Navbar } from './navbar/navbar';
     template: `
     <section>
         <div><app-navbar></app-navbar></div>
-        <h1 class="fontRaleway">SAKURA RAMEN</h1>
-        <h2 clasS="fontRaleway">BEST RAMEN IN TOWN</h2>
+            <h1 class="fontRaleway">SAKURA RAMEN</h1>
+            <h2 clasS="fontRaleway">BEST RAMEN IN TOWN</h2>
     </section>
     `,
     styleUrls:['./landingPage.component.scss']
