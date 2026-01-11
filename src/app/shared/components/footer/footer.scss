@@ -1,0 +1,14 @@
+section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0A141E;
+    padding: 45px 80px;
+    >img{
+        height: 44px;
+    }
+    >a{
+        text-decoration: none;
+        color: white;
+    }
+}
